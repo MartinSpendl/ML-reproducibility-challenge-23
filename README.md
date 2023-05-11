@@ -1,7 +1,7 @@
 # Reproducibility report
 
 This is the code for the reproducibility of parts of the paper:
-_Pre-Train Your Loss: Easy Bayesian Transfer Learning with Informative Priors_.
+[_Pre-Train Your Loss: Easy Bayesian Transfer Learning with Informative Priors_](https://openreview.net/forum?id=ao30zaT3YL).
 
 The code inside folder `BayesianTransferLearning` is copied from the authors GitHub, but adjusted for replicating the results.
 
